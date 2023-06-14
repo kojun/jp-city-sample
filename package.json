@@ -1,0 +1,14 @@
+{
+  "name": "jp-city-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jp-city-lookup": "^0.2.6"
+  }
+}
